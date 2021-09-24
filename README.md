@@ -1,5 +1,9 @@
 # Absensi-Karyawan Version 1.0
 
+# Login
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/login.png)
+
 # Dashboard Admin
 
 ![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/dashboard%20admin.png)
@@ -11,10 +15,6 @@
 # Dashboard Karyawan
 
 ![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/dashboard%20karyawan.png)
-
-# Login
-
-![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/login.png)
 
 # Feature Absensi Karyawan :
 
