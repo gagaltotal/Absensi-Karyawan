@@ -1,1 +1,1 @@
-# Absensi-Karyawan Open Source Version 1.0
+# Absensi-Karyawan Version 1.0
