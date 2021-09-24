@@ -25,4 +25,4 @@ Example Absensi Karyawan
  - `HRD` → view data pegawai/karyawan, view absensi, view rekap data, view log data dan report.
  - `Karyawan` → absen hadir dan absen pulang, form pengajuan absen : izin, sakit dan cuti, view rekap data.
 
-Website : [https://wwww.gagaltotal666.my.id/]
+Website : [https://www.gagaltotal666.my.id/]
