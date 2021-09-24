@@ -1,4 +1,4 @@
-# Absensi-Karyawan Version 1.0
+# Absensi-Karyawan Version 1.0 - Codeigniter 3.1.11 - PHP 7.0-7.4 - Webserver Apache or Nginx GNU/Linux
 
 # Login
 
