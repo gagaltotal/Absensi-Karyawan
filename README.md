@@ -12,6 +12,10 @@
 
 ![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/dashboard%20karyawan.png)
 
+# Login
+
+![Screen Capture](https://raw.githubusercontent.com/gagaltotal/Absensi-Karyawan/main/login.png)
+
 # Feature Absensi Karyawan :
 
 Example Absensi Karyawan
